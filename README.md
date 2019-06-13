@@ -1,2 +1,1 @@
-watafakashitmen
 # kurenai.github.io
